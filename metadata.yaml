@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5672
     wikipedia: http://en.wikipedia.org/wiki/Frederick_James_Furnivall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17179#The-Book-Of-Quinte-Essence-Or-The-Fifth-Being--1889-Edited-from-British-Museum-MS.-Sloane-73-_
 gutenberg_bookshelf: Early English Text Society
 gutenberg_issued: '2005-11-29'
 gutenberg_type: Text

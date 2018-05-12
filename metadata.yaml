@@ -1,0 +1,36 @@
+_repo: The-Book-Of-Quinte-Essence-Or-The-Fifth-Being--1889-Edited-from-British-Museum-MS.-Sloane-73-__17179
+_version: 0.1.0
+contributor:
+  dubious_author:
+    agent_name: Hermes, Trismegistus
+    gutenberg_agent_id: '7241'
+    url: http://www.gutenberg.org/2009/agents/7241
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Furnivall, Frederick James
+    alias: Furnivall, F. J. (Frederick James)
+    birthdate: 1825
+    deathdate: 1910
+    gutenberg_agent_id: '5672'
+    url: http://www.gutenberg.org/2009/agents/5672
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_James_Furnivall
+description: ''
+gutenberg_bookshelf: Early English Text Society
+gutenberg_issued: '2005-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17179'
+language: enm
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine, Magic, mystic, and spagiric'
+- !lcc 'PR'
+title: 'The Book Of Quinte Essence Or The Fifth Being (1889)
+
+  Edited from British Museum MS. Sloane 73 about 1460-70 A.D.'
+url: http://www.gutenberg.org/ebooks/17179
